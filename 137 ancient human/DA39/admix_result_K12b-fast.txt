@@ -1,0 +1,2 @@
+ Chromosome #SNPs Gedrosia Siberian Northwest_African Southeast_Asian Atlantic_Med North_European South_Asian East_African Southwest_Asian East_Asian Caucasus Sub_Saharan 
+ All 166770   0.58  27.37   0.56  10.23   0.22   0.30   0.00   0.00   0.01  59.99   0.04   0.72
